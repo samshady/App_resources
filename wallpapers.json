@@ -2,7 +2,6 @@
 	"wallpapers":[
 		{
 			"name": "Gang in Grey",
-			"author": "Sam",
 			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/10.png?token=AC7BEJKYFZXXBJWRPJXP2VK6CUKK6",
 			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/10.png?token=AC7BEJNXIM3DEQUF2S7RLSC6CUNMU",
 			"dimensions": "1080 x 1920 px",
@@ -213,6 +212,222 @@
 			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/9.png?token=AC7BEJOAU64ZG2EAPW2ZXCC6CUMLQ",
 			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/9.png?token=AC7BEJPSHX6AJLKR4FYXELK6CUOTK",
 			"dimensions": "1080 x 1920 px",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Blue",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/27.jpg?token=AC7BEJJKCGCR6FGXGWKH5FC6DSJ6Q",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/27.jpg?token=AC7BEJIE2W6TXLI7RTQP7FC6DSKHE",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Mang",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/28.jpg?token=AC7BEJMARUGF3NEE63GC2HS6DSKJU",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/28.jpg?token=AC7BEJOFI5QQXSAXBKXXYY26DSKMC",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Chimmy cute",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/29.jpg?token=AC7BEJIAOWHAR44YOCKCWV26DSKRO",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/29.jpg?token=AC7BEJPFUUXN5HBQ6MLJBBS6DSKS2",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Chimmy blue",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/30.jpg?token=AC7BEJLMOQSKZINHQJDWT2C6DSKVA",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/30.jpg?token=AC7BEJIR7IMIMEBL5ZG6FQC6DSKVK",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Chimmy balloon",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/31.jpg?token=AC7BEJKKVIQ5AMRPFISEO7S6DSKYM",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/31.jpg?token=AC7BEJLCEKJUURLRPMGP4G26DSKZW",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Mang dance",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/32.jpg?token=AC7BEJLYPGNI7ZM2VIHRQZ26DSK3O",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/32.jpg?token=AC7BEJMN7ASINJ7DGFWZWTS6DSK5A",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Tata Fly",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/33.jpg?token=AC7BEJMNPJTHPTTBZ2J6FCK6DSK6S",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/33.jpg?token=AC7BEJMEAIW6YFZCJALRYSS6DSK72",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Chimmy coffee",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/34.jpg?token=AC7BEJO5MBLBLACSFY2VT6S6DSLBM",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/34.jpg?token=AC7BEJLGSYAFAEGZWBLUW5C6DSLCU",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Chimmy's cups",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/35.jpg?token=AC7BEJJPEACVTZ2GSWFGUB26DSLJW",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/35.jpg?token=AC7BEJJ5UXRIM72M3XXFPJK6DSLKA",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Flying Team",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/36.jpg?token=AC7BEJJQRP3HRTUJ3G56ICK6DSLNM",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/36.jpg?token=AC7BEJOPPBKLPG3ANHKJJFS6DSLOE",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "RJ Dressup",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/37.jpg?token=AC7BEJN6P3N3VZ74OB7MLU26DSLQ4",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/37.jpg?token=AC7BEJLMJC3BNAL4P2WWRF26DSLRI",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Tata big",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/38.jpg?token=AC7BEJNSCIB7CRCWVWJZV3S6DSLUG",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/38.jpg?token=AC7BEJPUAWO4BUL252QGDAC6DSLUU",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Cooky falls",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/39.jpg?token=AC7BEJMLOEG6YO5KYFCBNOC6DSLW6",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/39.jpg?token=AC7BEJLRHCKU5SEBHNKK6FC6DSLYI",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Cuties",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/40.jpg?token=AC7BEJK265JOFRP4QYC2QDK6DSLZY",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/40.jpg?token=AC7BEJP2S6ENYCL6XV4YJDC6DSL2O",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "RJ Koya Hug",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/41.jpg?token=AC7BEJIOJ5KUS6N4ADFWGTK6DSL42",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/41.jpg?token=AC7BEJORRY6NPMPQ7L6GRV26DSL5G",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Van flowers",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/42.jpg?token=AC7BEJIUMZP6BLOC5TZCZD26DSL7U",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/42.jpg?token=AC7BEJMZ3YPIH725AXDL2ES6DSL76",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Pink squad",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/43.jpg?token=AC7BEJI2ZV3AI7ACD4QDSH26DSMCA",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/43.jpg?token=AC7BEJIYL22PQABO52LCRBK6DSMCW",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Mang and Koya",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/44.jpg?token=AC7BEJJIB5YSUWG2UB4MTLC6DSMFO",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/44.jpg?token=AC7BEJJ2QMMTEPWA5HLQWHC6DSMHG",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "RJ Tennis",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/45.jpg?token=AC7BEJJMFIGNBUT5MN7JY3C6DSMIY",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/45.jpg?token=AC7BEJOHSRWAUYWPP2UWXWK6DSMJG",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Koya naps",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/46.jpg?token=AC7BEJIS3WAR6JLIN546WW26DSMLU",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/46.jpg?token=AC7BEJJ36VU3MJFP6PG4ID26DSML6",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Tata in Space",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/47.jpg?token=AC7BEJJLB2EC5JBIGNOPUX26DSMOA",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/47.jpg?token=AC7BEJPNFSQBXMZSQBP247S6DSMOK",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "In a Plane",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/48.jpg?token=AC7BEJM6WZ4I5P6X2WQVBR26DSMQM",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/48.jpg?token=AC7BEJNYTLOAEN5EZHH6Z326DSMQ4",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Tata gun",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/49.jpg?token=AC7BEJOLL2P3I3RGN53HJKC6DSMTQ",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/49.jpg?token=AC7BEJIKCRWM4WT6S56Y2BS6DSMT2",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "In a tree",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/50.jpg?token=AC7BEJPIIDNHKNJSVMMOSRC6DSMWS",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/50.jpg?token=AC7BEJPCEAXZDLRXZNOCNXS6DSMWY",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Hope's World",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/51.jpg?token=AC7BEJP4P37KLBFNNZTSQ2K6DSMZK",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/51.jpg?token=AC7BEJMR2DGSVYGLEXGXOHS6DSM3Y",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Tata party",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/52.jpg?token=AC7BEJNFJBCYCDCYBRPQTD26DSM44",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/52.jpg?token=AC7BEJPKSPU6JGQEH3FEXG26DSM5E",
+			"downloadable": true,
+			"copyright": "BIG HIT X LINE FRIENDS"
+		},
+		{
+			"name": "Helloo!",
+			"author": "Sam",
+			"url": "https://raw.githubusercontent.com/samshady/App_resources/master/wallpapers/53.jpg?token=AC7BEJL3ODYZKI3OQ4ARESK6DSM76",
+			"thumbnail": "https://raw.githubusercontent.com/samshady/App_resources/master/thumbnails/53.jpg?token=AC7BEJLWVAINSRHFS5S4EKK6DSNAG",
 			"downloadable": true,
 			"copyright": "BIG HIT X LINE FRIENDS"
 		}
